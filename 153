@@ -1,0 +1,5 @@
+HvH7pJCNVBe6wD7fKEdGtZ02QPpyj6CO
+
+cd Desktop/blynk-library/linux
+sudo ./build.sh raspberry
+sudo ./blynk --token=HvH7pJCNVBe6wD7fKEdGtZ02QPpyj6CO
